@@ -16,7 +16,7 @@
 
 ### Hi there 👋, I'm Samuel!
 
-I'm a Cloud Engineer with extensive experience in IT, specializing in **AWS** and driven by a passion for **automation** and **Infrastructure as Code (IaC)**. My focus is on designing, implementing, and maintaining scalable, secure, and resilient cloud environments that empower businesses to innovate.
+I'm a Cloud Engineer with extensive experience in IT, specializing in **AWS, Azure, and GCP**, and driven by a passion for **automation** and **Infrastructure as Code (IaC)**. My focus is on designing, implementing, and maintaining scalable, secure, and resilient cloud environments that empower businesses to innovate.
 
 - 🔭 I’m currently a **Cloud Engineer at FGV** and also work as a **Freelance Cloud Consultant**.
 - 🌱 I’m continuously learning and exploring new technologies in the DevOps and Cloud Native landscape.
@@ -28,14 +28,14 @@ I'm a Cloud Engineer with extensive experience in IT, specializing in **AWS** an
 
 Here are the key technologies I work with:
 
-| Category                     | Technologies                                                                                                                                                                                                                                                                        |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud Provider** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />                                                                                                                                                                               |
-| **Infrastructure as Code** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />                                                                  |
-| **Containers & Orchestration** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />                                                                  |
-| **CI/CD & Automation** | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />                                                                       |
-| **Scripting & Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />                                                                  |
-| **Monitoring & Logging** | <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />                                                    |
+| Category                     | Technologies                                                                                                                                                                                                                                                                                                                                                     |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Cloud Providers** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />                         |
+| **Infrastructure as Code** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />                                                                                                                                                  |
+| **Containers & Orchestration** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />                                                                                                                                                  |
+| **CI/CD & Automation** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />                                                                                                                      |
+| **Scripting & Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />                                                                                                                                                  |
+| **Monitoring & Logging** | <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> |
 
 ---
 
@@ -70,7 +70,7 @@ Designed and deployed a highly available, serverless-first AWS architecture to h
 </details>
 
 <details>
-<summary><strong>MIT Technology Review</strong> - Resilient AWS Website Hosting</summary>
+<summary><strong>MIT Technology Review Brasil</strong> - Resilient AWS Website Hosting</summary>
 <br>
 Led the deployment and ongoing maintenance of a robust, scalable, and highly available AWS environment for the MIT Technology Review Brazil website. Utilized Terraform to ensure consistent and reliable infrastructure management.
 <br><br>
@@ -89,7 +89,7 @@ Led the deployment and ongoing maintenance of a robust, scalable, and highly ava
 ## 🧑‍💼 Professional Experience
 
 - **Cloud Engineer** @ [Fundação Getúlio Vargas (FGV)](https://portal.fgv.br/) (*Jan 2020 – Present*)
-- **Cloud Engineer (Freelancer)** @ Zion Cloud Consulting (*Jan 2020 – Present*)
+- **Cloud Consultant** @ Zion Cloud Consulting (*Jan 2020 – Present*)
 - **Senior Infrastructure Engineer** @ [Infobase](https://www.infobase.com.br/) (*Jan 2013 – Jan 2020*)
 - **Support Analyst** @ World Master (*Jan 2012 – Dec 2012*)
 
@@ -98,6 +98,7 @@ Led the deployment and ongoing maintenance of a robust, scalable, and highly ava
 ## 🏆 Certifications
 
 All my certifications are verifiable on [my Credly profile](https://www.credly.com/users/samuel-alves.677a5d6c/badges).
+
 
 ---
 
